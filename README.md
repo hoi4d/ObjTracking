@@ -6,7 +6,7 @@ This code base provides a benchmark for the HOI4D challenge object tracking task
 For this challege, you need submmit a pred.npy file(your predicted results) to the leaderboard. The file pred.npy is a ndarray which is the prediction of test_wolabel.h5. You can download the example here: [Link](https://1drv.ms/u/s!ApQF_e_bw-USgjQCKg9hGJIijeqs?e=eGfohd)
 
 ## Usage
-After you process the data using our sripts, you can easily run [bundletrack](https://github.com/wenbowen123/BundleTrack).
+After you process the data using our sripts, you can easily run [BundleTrack](https://github.com/wenbowen123/BundleTrack).
 ## Citation
 ```
 @InProceedings{Liu_2022_CVPR,
